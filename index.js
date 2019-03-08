@@ -13,4 +13,4 @@ setInterval(() => {
         document.getElementById('quote').innerHTML = randomQuote;
     })
 
-}, 40000)
+}, 40000) 
